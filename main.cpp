@@ -11,7 +11,10 @@ int main() {
     int opcao;
 
     do {
-        cout << "\n===== Clínica Veterinária =====" << endl;
+         cout << "\n===== Clínica Veterinária LimaLeon =====" << endl;
+        cout<< " \nTelefone: (37)998266407" << endl;
+        cout<< " \nEndereço: Rua: 13 de Maio, 123 - Centro" << endl;
+        cout<< " \nSelecionar a opção desejada: " << endl; 
         cout << "1. Adicionar Gato" << endl;
         cout << "2. Adicionar Cachorro" << endl;
         cout << "3. Listar Animais" << endl;
